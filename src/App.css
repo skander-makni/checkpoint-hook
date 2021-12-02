@@ -1,0 +1,12 @@
+.movie {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.skander {
+  text-align: center;
+}
+.style1 {
+  text-align: center;
+}
